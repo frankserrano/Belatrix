@@ -54,7 +54,7 @@ public class EbayTest {
 
 		this.filterByBrand();
 		this.filterBySize();
-		this.orderByPrice();
+		//this.orderByPrice();
 		this.selectItems();
 		this.sendEmail();
 	}
